@@ -42,8 +42,8 @@
 课程名 | 课程对应参考书 | 网络课程网址 | 网络课程对应的notes,slides等资料网址 | 课程机构 
 :-- | :--: | :--: | :--: | :--: 
 矩阵论 | 矩阵论 | 暂无  | 暂无 | 暂无
-凸优化1 | Convex Optimization|https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about | http://stanford.edu/class/ee364a/index.html | Stanford
-凸优化2  | 暂无 | https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20 | | http://stanford.edu/class/ee364b/ | Stanford
+凸优化1 | Convex Optimization | https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about | http://stanford.edu/class/ee364a/index.html | Stanford
+凸优化2  | 暂无 | https://www.youtube.com/watch?v=U3lJAObbMFI&list=PL3940DD956CDF0622&index=20 | 暂无 |  http://stanford.edu/class/ee364b/ | Stanford
 其他 | 其他 | 其他 | 其他 | 其他
 
 ###<h3 id="specific_median_courses">专业课程中级</h3>
